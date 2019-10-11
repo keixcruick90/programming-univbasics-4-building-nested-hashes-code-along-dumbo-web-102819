@@ -1,3 +1,5 @@
+epic_tragedy[:montague][:patriarch][:name]
+
 def bonus
   epic_tragedy = {
    :montague => {
