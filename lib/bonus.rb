@@ -1,6 +1,6 @@
-epic_tragedy[:montague][:patriarch][:name] = "Montel WIlliams"
-
 def bonus
+  epic_tragedy[:montague][:patriarch][:name] = "Montel WIlliams"
+
   epic_tragedy = {
    :montague => {
       :patriarch => {name: "Lord Montague", age: "53"},
